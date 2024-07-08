@@ -92,7 +92,7 @@ print(f"Цена планшета Samsung после удаления: {store1.g
 ```bash
 git clone <URL>
 cd <project-directory>
-python main.py
+python store_manage.py
 ```
 
 ## Лицензия
